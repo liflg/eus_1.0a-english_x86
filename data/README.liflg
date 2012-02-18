@@ -1,0 +1,40 @@
+
+			Eric's Ultimate Solitaire: English version 1.0a
+			    (http://www.lokigames.com/products/eus/)
+
+========================================
+
+ABOUT
+=====
+
+	This is an updated installer for the Loki version of Eric's
+        Ultimate Solitaire.
+	It contains the most recent patch and some workarounds to 
+	get this game working with current Linux distributions.
+	
+SYSTEM REQUIREMENTS
+===============
+
+	- The Loki Eric's Ultimate Solitaire disc
+
+NOTES
+====
+
+        - The GTK libraries are sponsored by Linux Game Publishing
+          (http://linuxgamepublishing.com/)
+
+	- The ESD libraries are taken from Debian Lenny
+	  (http://www.debian.org/)
+
+RUNNING THE GAME
+=============
+
+	Run "EricsSolitaire.dynamic.sh" to play.
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
